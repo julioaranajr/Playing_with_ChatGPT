@@ -1,0 +1,4 @@
+__pycache__
+roles.json
+*.env
+temp*.*
